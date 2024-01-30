@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>Adult</title>
+            <description>$30.70</description>
+        </item>
+        <item>
+            <title>Child (3-11)</title>
+            <description>$24.70</description>
+        </item>
+        <item>
+            <title>Senior (65+)</title>
+            <description>$28.45</description>
+        </item>
+        <item>
+            <title>College Student</title>
+            <description>$28.45</description>
+        </item>
+        <item>
+            <title>Children (2 &amp; Under)</title>
+            <description>FREE*</description>
+        </item>
+        <item>
+            <title>Military</title>
+            <description>FREE**</description>
+        </item>
+        <item>
+            <title>Groups (15+)</title>
+            <description>$23.20</description>
+        </item>
+    </channel>
+</rss>
